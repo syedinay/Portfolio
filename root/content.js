@@ -15,8 +15,8 @@ const CONTENT = {
 
   links: {
     email: "dev.syed.inayath@gmail.com",
-    github: "",
-    linkedin: "",
+    github: "https://github.com/syedinay",
+    linkedin: "https://www.linkedin.com/in/syedinay/",
     resume: "resume.pdf"
   },
 
