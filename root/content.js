@@ -17,7 +17,7 @@ const CONTENT = {
     email: "dev.syed.inayath@gmail.com",
     github: "https://github.com/syedinay",
     linkedin: "https://www.linkedin.com/in/syedinay/",
-    resume: "resume.pdf"
+    resume: "../resources/resume.pdf"
   },
 
   skills: [
